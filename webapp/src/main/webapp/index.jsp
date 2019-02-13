@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies TEST 2 !!! </h1>
+<h1> Hello, Welcome to Nikhil Technologies TEST 2 !!! </h1>
 
